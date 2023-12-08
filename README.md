@@ -1,4 +1,8 @@
+<p align=”center”>
 
+<img width=”200" height=”200" src=”https://i.ibb.co/Wyg9Qq1/JSX-In-Depth.jpg" alt=”my banner”>
+
+</p>
 
 <h1 align="center">Hi 👋, I'm Minhaz</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
