@@ -1,5 +1,4 @@
-![logo]([https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png](https://raw.githubusercontent.com/heyMinhaz/heyMinhaz/main/JSX%20In%20Depth.jpeg))
-
+![logo](https://raw.githubusercontent.com/heyMinhaz/heyMinhaz/main/JSX%20In%20Depth.jpeg)
 <h1 align="center">Hi 👋, I'm Minhaz</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
