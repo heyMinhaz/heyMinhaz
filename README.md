@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://raw.githubusercontent.com/heyMinhaz/heyMinhaz/main/JSX%20In%20Depth.jpeg))]()
+[![]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://raw.githubusercontent.com/heyMinhaz/heyMinhaz/main/JSX%20In%20Depth.jpeg))]()
 
 <h1 align="center">Hi 👋, I'm Minhaz</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
