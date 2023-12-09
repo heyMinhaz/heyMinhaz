@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/heyMinhaz/heyMinhaz/main/JSX%20In%20Depth.jpeg)
+![logo](https://www.davidmvenegas.com/static/media/react-banner.1c0c53f9413881974c0c.jpg)
 <h1 align="center">Hi 👋, I'm Minhaz</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
