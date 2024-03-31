@@ -1,4 +1,4 @@
-![logo](https://www.davidmvenegas.com/static/media/react-banner.1c0c53f9413881974c0c.jpg)
+![logo](https://i.ibb.co/Kj45rRv/md-minhazulabdin-1.png)
 <h1 align="center">Hi 👋, I'm Minhaz</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
